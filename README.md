@@ -1,5 +1,5 @@
 # Integration testing - user registration system
-The task is to add tests to registration functionality and mock validation functionality.
+The task is to add tests to registration functionality.
 
 ## How to get the project
 
