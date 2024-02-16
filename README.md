@@ -18,8 +18,8 @@ To solve the task, proceed as follows:
    - who made the pull request with finished tests and validation code
 
 Jest documentation:
-https://jestjs.io/docs/expect
-https://jestjs.io/docs/mock-function-api
+- https://jestjs.io/docs/expect
+- https://jestjs.io/docs/mock-function-api
 
 
 ## Business requirements
